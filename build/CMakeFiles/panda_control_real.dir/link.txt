@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/panda_control_real.dir/src/main.cpp.o CMakeFiles/panda_control_real.dir/src/controller.cpp.o CMakeFiles/panda_control_real.dir/src/motion_generator.cpp.o  -o panda_control_real -Wl,-rpath,/usr/local/lib /usr/local/lib/libfranka.so.0.7.1 -lpthread 
